@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I’m Moha, a Computer Science student with a passion for coding.
 <!--
 **itsMoha963/itsMoha963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
