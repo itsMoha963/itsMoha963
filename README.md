@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmoha963&label=Profile%20views&color=0e75b6&style=flat" alt="itsmoha963" /> </p>
 
-- 🔭 I’m currently working on **Bank System**
+- 🔭 I’m currently working on a **Bank System**
 
 - 🌱I’m currently exploring the field of deep learning **C++, C#, Java and more**
 
