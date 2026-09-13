@@ -1,16 +1,20 @@
-<a href="https://github.com/itsMoha963/NetWatch">
-  <img src="assets/profile-header.png" width="100%" alt="Moha — Computer science student. Currently building NetWatch, a network and infrastructure monitoring system. Backend: Python, FastAPI and Uvicorn. Testing: pytest and HTTPX.">
-</a>
+<img src="assets/profile-header.png" width="100%" alt="Moha — Computer science student">
 
-<p align="center">
-  <a href="https://github.com/itsMoha963/NetWatch"><strong>Explore NetWatch</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/itsMoha963?tab=repositories">All repositories</a>
-</p>
+## Currently building
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/itsMoha963/NetWatch">NetWatch</a></h3>
+      <p>Network and infrastructure monitoring. Currently working on the backend API.</p>
+      <p><sub>Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Uvicorn<br>Testing: pytest &nbsp;·&nbsp; HTTPX</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/itsMoha963/OnlyBikes">OnlyBikes</a></h3>
@@ -24,6 +28,10 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/itsMoha963?tab=repositories">All repositories</a>
+</p>
 
 <details>
 <summary><strong>Languages &amp; tools</strong></summary>
